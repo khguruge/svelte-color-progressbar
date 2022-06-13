@@ -1,16 +1,16 @@
-# sveltejs-progressbar
+# svelte-color-progressbar
 
 ### Installation
 
 Install using NPM
 
 ```sh
-npm i sveltejs-progressbar
+npm i svelte-color-progressbar
 ```
 ### Import package to your component
 
 ```js
-  import Progress from 'sveltejs-progressbar'
+  import Progress from 'svelte-color-progressbar'
 ```
 ### Use
 
@@ -22,7 +22,7 @@ npm i sveltejs-progressbar
 
 ### Options
 
-sveltejs-progressbar support for these options
+svelte-color-progressbar support for these options
 
 | Option | Type | Default |
 | ------ | ------ |  ------ |
